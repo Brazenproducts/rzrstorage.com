@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://rzrstorage.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://rzrstorage.com/best-polaris-rzr-storage-solutions.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://rzrstorage.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://rzrstorage.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://rzrstorage.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://rzrstorage.com/how-to-choose-rzrstorage-may-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://rzrstorage.com/rzrstorage-what-buyers-need-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://rzrstorage.com/rzrstorage-quality-vs-marketing.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://rzrstorage.com/what-we-look-for-rzrstorage-2026.html</loc><lastmod>2026-05-21</lastmod></url>
-  <url><loc>https://rzrstorage.com/best-rzrstorage-without-overpaying.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://rzrstorage.com/truth-about-rzrstorage-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://rzrstorage.com/rzrstorage-reviewed-2026.html</loc><lastmod>2026-05-27</lastmod></url>
-  <url><loc>https://rzrstorage.com/how-to-pick-rzrstorage-2026.html</loc><lastmod>2026-05-30</lastmod></url>
-  <url><loc>https://rzrstorage.com/best-rzrstorage-2026.html</loc><lastmod>2026-06-02</lastmod></url>
-  <url><loc>https://rzrstorage.com/rzrstorage-buyers-handbook-2026.html</loc><lastmod>2026-06-05</lastmod></url>
-  <url><loc>https://rzrstorage.com/rzrstorage-buying-guide-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://rzrstorage.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
